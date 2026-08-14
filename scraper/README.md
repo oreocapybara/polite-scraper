@@ -3,11 +3,10 @@
 ## Target classification
 
 - **Site:** https://books.toscrape.com
-- **Why:** Explicitly built by Scrapinghub as a public sandbox for practicing scraping.
+- **Why:** Built by Scraping hub as a sandbox to practice scraping.
 - **Scope:** First 3 catalogue pages only.
 - **Data collected:** Book titles, prices, availability, ratings.
 - **robots.txt result:** 404 Not Found
-- **Why this is appropriate:** [your own sentence, tying the sandbox statement + scope limit + robots result together]
+- **Why this is appropriate:** Allow to practice web scraping in a sandboxed environment, with a definite goal of scraping only the first three catalogues without the need to know the sitemap (since there is no robots.txt)
 
-I will not reuse this code on another site without checking its rules and terms first.
-
+`I will not reuse this code on another site without checking its rules and terms first.`
